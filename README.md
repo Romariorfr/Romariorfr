@@ -3,7 +3,7 @@
 
 
 - 🔭 Estou cursando Analise e Desenvolvimento de Sistemas
-- 🌱 Estou aprendendo java 
+- 🌱 Estou participando do Bootcamp Spring Reac da DevSuperior
 - 📫 Contate-me no email: romarioferreirarezende@hotmail.com
 - 😄 Pronouns: ele/dele
 
