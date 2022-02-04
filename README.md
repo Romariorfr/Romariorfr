@@ -5,7 +5,8 @@
 - 🔭 Estou cursando Analise e Desenvolvimento de Sistemas
 - 🌱 Estou participando do Bootcamp Spring React da DevSuperior
 - 📫 Contate-me no email: romarioferreirarezende@hotmail.com
-- 😄 Pronouns: ele/dele
+
+Olá sou o Romário, estou terminando a faculdade de análise e desenvolvimento de sistemas , atualmente estou focado no desenvolvimento Back End com Java. Busco sempre expandir meus conhecimentos, habilidades técnicas e me desenvolver como pessoa. Adoro jogar jogos fps online com os amigos. Atualmente estou desenvolvendo diversos projetos com java/spring-boot.
 
 <div align="center">
   <a href="https://github.com/Romariorfr">
