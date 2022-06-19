@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Formado em Analise e Desenvolvimento de Sistemas
+- 🚀 Formado em Analise e Desenvolvimento de Sistemas
 - 🌱 Estou participando do Bootcamp Spring React da DevSuperior
 - 📫 Contate-me no email: romarioferreirarezende@hotmail.com
 
