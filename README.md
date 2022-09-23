@@ -1,4 +1,4 @@
-## Olá! Eu sou Romário 🙋‍♂️
+## Olá! Eu sou Romário
 
 
 
