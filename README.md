@@ -11,7 +11,7 @@
 
 
 
-Olá sou o Romário 😎, Graduado em análise e desenvolvimento de sistemas 💻 , atualmente estou focado no desenvolvimento Back End com Java. Busco sempre expandir meus conhecimentos, habilidades técnicas e me desenvolver como pessoa. Adoro jogar jogos fps online com os amigos 🎮. Atualmente estou desenvolvendo diversos projetos com java/spring-boot.
+Olá sou o Romário 😎, atualmente estou focado no desenvolvimento Back End com Java. Busco sempre expandir meus conhecimentos, habilidades técnicas e me desenvolver como pessoa. Adoro jogar jogos fps online com os amigos 🎮. Atualmente estou desenvolvendo diversos projetos com java/spring-boot.
 
 ---
 
