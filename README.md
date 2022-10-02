@@ -1,17 +1,17 @@
-## Olá 👋! Eu sou Romário 🧑‍💻
+## Hi there 👋! Im Romário 🧑‍💻
 
 
 
-- 🚀 Formado em Analise e Desenvolvimento de Sistemas
-- 🌱 Estou participando do Bootcamp Spring React da DevSuperior
-- 📫 Contate-me no email: romarioferreirarezende@hotmail.com
+- 🚀 Majored in Systems Analysis and Development
+- 🌱 I'm participating in DevSuperior's Spring React Bootcamp
+- 📫 Contact me by email: romarioferreirarezende@hotmail.com
 
 
 ---
 
 
 
-Olá sou o Romário 😎, atualmente estou focado no desenvolvimento Back End com Java. Busco sempre expandir meus conhecimentos, habilidades técnicas e me desenvolver como pessoa. Adoro jogar jogos fps online com os amigos 🎮. Atualmente estou desenvolvendo diversos projetos com java/spring-boot.
+Hi, I'm Romario 😎, I'm currently focused on Back End development with Java. I always seek to expand my knowledge, technical skills and develop myself as a person. I love playing fps games online with friends 🎮. I'm currently developing several projects with java/spring-boot.
 
 ---
 
@@ -24,7 +24,7 @@ Olá sou o Romário 😎, atualmente estou focado no desenvolvimento Back End co
 
   ---
   
-## **Linguagens e Ferramentas 🚀**
+## **Hard Skills 🚀**
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> 
 <img src="https://img.shields.io/badge/String Boot-339933?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring Boot"/>
@@ -41,7 +41,7 @@ Olá sou o Romário 😎, atualmente estou focado no desenvolvimento Back End co
 </p>
 
   
-  ## **👇Conecte-se comigo **
+  ## **👇Connect with me **
    <a href="https://www.linkedin.com/in/romarioferreiradeveloper/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
