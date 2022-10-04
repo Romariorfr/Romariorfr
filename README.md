@@ -2,7 +2,7 @@
 
 
 
-- 🚀 Majored in Systems Analysis and Development
+- 🚀 Graduated in Systems Analysis and Development
 - 🌱 I'm participating in DevSuperior's Spring React Bootcamp
 - 📫 Contact me by email: romarioferreirarezende@hotmail.com
 
