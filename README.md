@@ -9,9 +9,7 @@
 
 ---
 
-
-
-Hi, I'm Romario 😎, I'm currently focused on Back End development with Java. I always seek to expand my knowledge, technical skills and develop myself as a person. I love playing fps games online with friends 🎮. I'm currently developing several projects with java/spring-boot.
+ I’m currently Developing web and mobile appilication with React, React Native / Springboot.
 
 ---
 
