@@ -3,7 +3,7 @@
 
 
 - 🚀 Formado em Análise e Desenvolvimento de Sistemas.
-- 🌱 Estou dedicado a aprender, aplicar e criar soluções web modernas para estar sempre atualizado(a) e entregar resultados cada vez mais inovadores.
+- 🌱 Estou dedicado a aprender, aplicar e criar soluções web modernas para estar sempre atualizado e entregar resultados cada vez mais inovadores.
 - 📫 Entre em contato comigo por e-mail: romarioferreirarezende@hotmail.com
 
 
