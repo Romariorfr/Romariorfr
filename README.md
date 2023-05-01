@@ -2,14 +2,14 @@
 
 
 
-- 🚀 Graduated in Systems Analysis and Development
-- 🌱 I'm participating in DevSuperior's Spring React Bootcamp
-- 📫 Contact me by email: romarioferreirarezende@hotmail.com
+- 🚀 Formado em Análise e Desenvolvimento de Sistemas.
+- 🌱 Estou dedicado a aprender, aplicar e criar soluções web modernas para estar sempre atualizado(a) e entregar resultados cada vez mais inovadores.
+- 📫 Entre em contato comigo por e-mail: romarioferreirarezende@hotmail.com
 
 
 ---
 
- I’m currently Developing web and mobile appilication with React, React Native / Springboot.
+Olá! Sou um desenvolvedor web full stack apaixonado por programação e pela criação de soluções inovadoras que atendam às necessidades dos usuários. Busco constantemente por novas oportunidades de aprendizado e me atualizo sobre as mais recentes tecnologias e ferramentas de desenvolvimento web para aprimorar minhas habilidades. Tenho experiência em várias linguagens de programação e frameworks populares, e estou sempre aberto a aprender novas técnicas para desenvolver soluções ainda mais inovadoras.
 
 ---
 
