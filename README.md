@@ -1,4 +1,4 @@
-## Hi there 👋! Im Romário 🧑‍💻
+## Olá 👋! Sou o Romário 🧑‍💻.
 
 
 
