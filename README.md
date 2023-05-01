@@ -11,14 +11,6 @@
 
 Sou um desenvolvedor web full stack em formação apaixonado por programação e pela criação de soluções inovadoras que atendam às necessidades dos usuários. Busco constantemente por novas oportunidades de aprendizado e me atualizo sobre as mais recentes tecnologias e ferramentas de desenvolvimento web para aprimorar minhas habilidades. Tenho experiência em várias linguagens de programação e frameworks populares, e estou sempre aberto a aprender novas técnicas para desenvolver soluções ainda mais inovadoras.
 
----
-
-<div align="center">
-  <a href="https://github.com/Romariorfr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romariorfr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romariorfr&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-  
 
   ---
   
@@ -37,6 +29,14 @@ Sou um desenvolvedor web full stack em formação apaixonado por programação e
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/> 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
+
+---
+
+<div align="center">
+  <a href="https://github.com/Romariorfr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romariorfr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romariorfr&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
 
   
   ## **👇Connect with me **
