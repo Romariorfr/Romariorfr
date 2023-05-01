@@ -9,7 +9,7 @@
 
 ---
 
-Olá! Sou um desenvolvedor web full stack apaixonado por programação e pela criação de soluções inovadoras que atendam às necessidades dos usuários. Busco constantemente por novas oportunidades de aprendizado e me atualizo sobre as mais recentes tecnologias e ferramentas de desenvolvimento web para aprimorar minhas habilidades. Tenho experiência em várias linguagens de programação e frameworks populares, e estou sempre aberto a aprender novas técnicas para desenvolver soluções ainda mais inovadoras.
+Sou um desenvolvedor web full stack em formação apaixonado por programação e pela criação de soluções inovadoras que atendam às necessidades dos usuários. Busco constantemente por novas oportunidades de aprendizado e me atualizo sobre as mais recentes tecnologias e ferramentas de desenvolvimento web para aprimorar minhas habilidades. Tenho experiência em várias linguagens de programação e frameworks populares, e estou sempre aberto a aprender novas técnicas para desenvolver soluções ainda mais inovadoras.
 
 ---
 
