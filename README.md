@@ -1,15 +1,12 @@
-## Olá 👋! Sou o Romário 🧑‍💻.
+Hello! 👋 I'm Romario 🧑‍💻.
 
-
-
-- 🚀 Formado em Análise e Desenvolvimento de Sistemas.
-- 🌱 Estou dedicado a aprender, aplicar e criar soluções web modernas para estar sempre atualizado e entregar resultados cada vez mais inovadores.
-- 📫 Entre em contato comigo por e-mail: romarioferreirarezende@hotmail.com
-
+- 🚀 I hold a degree in Analysis and Systems Development.
+- 🌱 I am dedicated to learning, applying, and creating modern web solutions to stay up-to-date and deliver increasingly innovative results.
+- 📫 Feel free to reach out to me via email: romarioferreirarezende@hotmail.com
 
 ---
 
-Sou um desenvolvedor web full stack em formação apaixonado por programação e pela criação de soluções inovadoras que atendam às necessidades dos usuários. Busco constantemente por novas oportunidades de aprendizado e me atualizo sobre as mais recentes tecnologias e ferramentas de desenvolvimento web para aprimorar minhas habilidades. Tenho experiência em várias linguagens de programação e frameworks populares, e estou sempre aberto a aprender novas técnicas para desenvolver soluções ainda mais inovadoras.
+I am a passionate aspiring full-stack web developer with a strong interest in programming and creating innovative solutions that meet user needs. I am constantly seeking new learning opportunities and staying updated on the latest web development technologies and tools to enhance my skills. I have experience in various programming languages and popular frameworks, and I am always open to learning new techniques to develop even more innovative solutions.
 
 
   ---
