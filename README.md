@@ -5,7 +5,7 @@ Hello! 👋 I'm Romario 🧑‍💻.
 - 📫 Feel free to reach out to me via email: romarioferreirarezende@hotmail.com
 
 ---
-About me:
+
 I am a Full Stack Web Developer in training with experience in creating applications using React and Spring Boot technologies. On the front-end, I have solid knowledge in JavaScript, TypeScript, HTML, CSS, and consuming REST APIs. On the back-end, I have skills in Java, Spring Data JPA, Maven, and PostgreSQL database. I hold a degree in Systems Analysis and Development and am a student at the DevSuperior programming school.
 
 
