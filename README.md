@@ -1,4 +1,4 @@
-# Hello, I'm Romario 🚀
+# "👋 Romario 🚀 | Futuro Engenheiro de Software"
 
 I'm a passionate Web Developer, driven by the pursuit of crafting exceptional web solutions. Here's a glimpse into my world:
 
