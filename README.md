@@ -1,4 +1,5 @@
-# "👨‍💻 Romário F. | 🚀 Software Engineering in Progress!"
+## const githubBio = (name) => `👨‍💻 ${name} | 🚀 Software Engineering in Progress!`;
+## console.log(githubBio("Romário F."));
 
 <p align="center">
   <samp>
