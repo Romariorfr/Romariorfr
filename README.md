@@ -30,10 +30,12 @@
 
 ## 📫 Get in Touch
 
+<pre>
 Let's connect and collaborate:
 
-- 📧 Email: romarioferreirarezende@hotmail.com
-- 👔 [LinkedIn](https://www.linkedin.com/in/romarioferreiradeveloper/)
+ 📬 Email: romarioferreirarezende@hotmail.com
+ 🌐 <a href="https://www.linkedin.com/in/romarioferreiradeveloper/">LinkedIn</a>
+</pre>
 
 I'm excited to explore new opportunities and challenges in the world of web development. Reach out, and let's create something extraordinary together! 🚀
 
