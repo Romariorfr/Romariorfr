@@ -10,10 +10,10 @@
 
 ## 📌 About Me
 
-- <pre>💻 Full Stack Web Developer</pre>
-- <pre>🎓 Bachelor's degree in Systems Analysis and Development</pre>
-- <pre>📚 Always dedicated to learning and staying up-to-date</pre>
-- <pre>🌱 Committed to creating innovative web solutions</pre>
+<pre>💻 Full Stack Web Developer</pre>
+<pre>🎓 Bachelor's degree in Systems Analysis and Development</pre>
+<pre>📚 Always dedicated to learning and staying up-to-date</pre>
+<pre>🌱 Committed to creating innovative web solutions</pre>
 
 
 
