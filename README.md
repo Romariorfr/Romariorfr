@@ -1,13 +1,19 @@
 # "👨‍💻 Romário F. | 🚀 Software Engineering in Progress!"
 
-"Without ambition, nothing starts. Without effort, nothing is completed."
+<p align="center">
+  <samp>
+    <strong>🚀 "Without ambition, nothing starts. Without effort, nothing is completed." 🚀</strong>
+  </samp>
+</p>
+
+
 
 ## 📌 About Me
 
-- 💻 Full Stack Web Developer
-- 🎓 Bachelor's degree in Systems Analysis and Development
-- 📚 Always dedicated to learning and staying up-to-date
-- 🌱 Committed to creating innovative web solutions
+- <pre>💻 Full Stack Web Developer</pre>
+- <pre>🎓 Bachelor's degree in Systems Analysis and Development</pre>
+- <pre>📚 Always dedicated to learning and staying up-to-date</pre>
+- <pre>🌱 Committed to creating innovative web solutions</pre>
 
 
 
