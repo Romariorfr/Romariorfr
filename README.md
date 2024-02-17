@@ -9,16 +9,7 @@ I'm a passionate Web Developer, driven by the pursuit of crafting exceptional we
 - 📚 Always dedicated to learning and staying up-to-date
 - 🌱 Committed to creating innovative web solutions
 
-## 💼 Professional Experience
 
-I have hands-on experience in building modern web applications using the following technologies:
-
-- **Front-end**: React, JavaScript, TypeScript, HTML, CSS
-- **Back-end**: Java, Spring Boot, Hibernate
-- **Databases**: PostgreSQL
-- **Tools**: Git, GitHub, Docker
-- **Build Automation**: Maven
-- **Styling**: Bootstrap
 
 ## 📊 GitHub Stats
 
