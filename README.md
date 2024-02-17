@@ -35,7 +35,7 @@ Let's connect and collaborate:
   
  🌐 <a href="https://www.linkedin.com/in/romarioferreiradeveloper/">LinkedIn</a>
   
- 🎨 <a href="https://romariorfr.github.io">Portfolio</a>
+ 🎨 <a href="https://romariorfr.github.io/portfolio">Portfolio</a>
 </pre>
 
 <p align="center">
