@@ -28,8 +28,6 @@
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Romariorfr&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27"></a>
 </p>
 
-## 📫 Get in Touch
-
 <pre>
 Let's connect and collaborate:
 
@@ -37,7 +35,11 @@ Let's connect and collaborate:
  🌐 <a href="https://www.linkedin.com/in/romarioferreiradeveloper/">LinkedIn</a>
 </pre>
 
-I'm excited to explore new opportunities and challenges in the world of web development. Reach out, and let's create something extraordinary together! 🚀
+<p align="center">
+  <samp>
+    I'm excited to explore new opportunities and challenges in the world of web development. Reach out, and let's create something extraordinary together! 
+  </samp>
+</p>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
