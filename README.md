@@ -1,6 +1,6 @@
 # "👨‍💻 Romário F. | 🚀 Software Engineering in Progress!"
 
-I'm a passionate Web Developer, driven by the pursuit of crafting exceptional web solutions. Here's a glimpse into my world:
+"Without ambition, nothing starts. Without effort, nothing is completed."
 
 ## 🌟 About Me
 
