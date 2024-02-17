@@ -22,10 +22,14 @@ I have hands-on experience in building modern web applications using the followi
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romariorfr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romariorfr&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+
+
+<p align="center">
+  <!-- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Romariorfr&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romariorfr&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27"></a>
+  <br><br> -->
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Romariorfr&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27"></a>
+</p>
 
 ## 📫 Get in Touch
 
@@ -35,3 +39,8 @@ Let's connect and collaborate:
 - 👔 [LinkedIn](https://www.linkedin.com/in/romarioferreiradeveloper/)
 
 I'm excited to explore new opportunities and challenges in the world of web development. Reach out, and let's create something extraordinary together! 🚀
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Romariorfr}/count.svg" /></p> 
+</div>
