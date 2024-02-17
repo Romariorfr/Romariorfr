@@ -2,7 +2,7 @@
 
 "Without ambition, nothing starts. Without effort, nothing is completed."
 
-## 🌟 About Me
+## 📌 About Me
 
 - 💻 Full Stack Web Developer
 - 🎓 Bachelor's degree in Systems Analysis and Development
